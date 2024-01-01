@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "326557431629",
+    "project_id": "posthub-7f739",
+    "storage_bucket": "posthub-7f739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326557431629:android:b29220e72823aea3cea904",
+        "android_client_info": {
+          "package_name": "com.example.posthub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326557431629-qp3o7588tntbsfah6a5t7k22vcn1o2ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2e2sjnzdSlf7ahIpL4FLSPforbVO3g-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326557431629-qp3o7588tntbsfah6a5t7k22vcn1o2ae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326557431629-3ksrqukhfa3l2bhl4a5p56jmp5p30ple.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
